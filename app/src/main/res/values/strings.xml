@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+
+    <string name="the_courseapp">The CourseApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="register_form">Register Form</string>
+    <string name="welcome_username">Welcome Username</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="send">Send</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="welcome">Welcome</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+</resources>
